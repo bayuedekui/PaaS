@@ -13,7 +13,7 @@
       <button class="sui-btn">搜索</button>
     </form>
     <ul class="sui-nav pull-right">
-      <li><a href="#">登录/注册</a></li>
+      <li @click="goTo('/loginorregister')"><a href="#">登录/注册</a></li>
     </ul>
   </div>
 </div>
@@ -32,6 +32,12 @@ export default {
   },
   components: {
 
+  },
+
+  methods:{
+    goTo(path){
+      this.$router.replace(path)
+    }
   }
 
 

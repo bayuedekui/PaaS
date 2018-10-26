@@ -1,6 +1,6 @@
 <template>
   <div class="footer" >
-  <p class="center">版权所有@zhengkui,翻版必究</p>
+  <p>版权所有@zhengkui,翻版必究</p>
 </div>
   
 
@@ -25,8 +25,10 @@ export default {
 .footer{
   position: absolute;
   bottom: 0;
-  height: 90px;
+  height: 0px;
   width: 100%;
+  text-align: center;
+  background: black;
 }
 
 </style>
