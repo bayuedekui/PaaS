@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2214a345-4811-407a-b3a9-b0894642422c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2214a345-4811-407a-b3a9-b0894642422c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/paas-backend/src/main/java/com/bayuedekui/paasbackend/PaasBackendApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -49,11 +47,11 @@
     </option>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/paas-fronted/node_modules" />
+    <handled-path value="$PROJECT_DIR$/paas-backend/paas-fronted/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/paas-fronted/package.json" />
+      <path value="$PROJECT_DIR$/paas-backend/paas-fronted/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -69,6 +67,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,46 +132,11 @@
               <item name="bayuedekui" type="462c0819:PsiDirectoryNode" />
               <item name="paasbackend" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PaaS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaaS" type="462c0819:PsiDirectoryNode" />
-              <item name="paas-fronted" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaaS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaaS" type="462c0819:PsiDirectoryNode" />
-              <item name="paas-fronted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaaS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaaS" type="462c0819:PsiDirectoryNode" />
-              <item name="paas-fronted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaaS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaaS" type="462c0819:PsiDirectoryNode" />
-              <item name="paas-fronted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="Login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaaS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaaS" type="462c0819:PsiDirectoryNode" />
-              <item name="paas-fronted" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="router" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,6 +219,7 @@
       <workItem from="1540568410758" duration="3589000" />
       <workItem from="1540714170249" duration="24000" />
       <workItem from="1540714509340" duration="921000" />
+      <workItem from="1540716532542" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="画好登录页面和注册页面不完美">
       <created>1540572032887</created>
@@ -266,7 +232,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4643000" />
+    <option name="totallyTimeSpent" value="4687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -279,7 +245,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32964602" />
@@ -289,25 +254,25 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32964602" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21460177" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +286,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="画好登录页面和注册页面不完美" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/paas-backend/src/main/java/com/bayuedekui/paasbackend/PaasBackendApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/paas-fronted/src/pages/Login/Login.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1316">
@@ -345,7 +317,7 @@
     <entry file="file://$PROJECT_DIR$/paas-backend/src/main/java/com/bayuedekui/paasbackend/PaasBackendApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
