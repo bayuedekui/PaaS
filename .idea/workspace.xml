@@ -47,11 +47,11 @@
     </option>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/paas-backend/paas-fronted/node_modules" />
+    <handled-path value="$PROJECT_DIR$/paas-fronted/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/paas-backend/paas-fronted/package.json" />
+      <path value="$PROJECT_DIR$/paas-fronted/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -68,6 +68,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -136,7 +137,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,6 +220,7 @@
       <workItem from="1540714170249" duration="24000" />
       <workItem from="1540714509340" duration="921000" />
       <workItem from="1540716532542" duration="44000" />
+      <workItem from="1540716679206" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="画好登录页面和注册页面不完美">
       <created>1540572032887</created>
@@ -232,7 +233,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4687000" />
+    <option name="totallyTimeSpent" value="4698000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -259,7 +260,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21460177" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -289,31 +290,20 @@
     <entry file="file://$PROJECT_DIR$/paas-backend/src/main/java/com/bayuedekui/paasbackend/PaasBackendApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paas-backend/src/main/java/com/bayuedekui/paasbackend/PaasBackendApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/paas-fronted/src/pages/Login/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1316">
-          <caret line="94" column="6" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paas-fronted/src/pages/Login/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1316">
-          <caret line="94" column="6" lean-forward="true" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paas-fronted/src/pages/Login/Login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/paas-fronted/src/pages/Login/Login.vue" />
+    <entry file="file://$PROJECT_DIR$/paas-fronted/src/pages/Login/Login.vue" />
+    <entry file="file://$PROJECT_DIR$/paas-fronted/src/pages/Login/Login.vue" />
     <entry file="file://$PROJECT_DIR$/paas-backend/src/main/java/com/bayuedekui/paasbackend/PaasBackendApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
