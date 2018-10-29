@@ -27,7 +27,6 @@ public class DaoTest {
     @Test
     public void testInsertUser(){
         User user=new User();
-        user.setId("3");
         user.setName("liuwenchang");
         user.setPassword("123");
         user.setEmail("3");

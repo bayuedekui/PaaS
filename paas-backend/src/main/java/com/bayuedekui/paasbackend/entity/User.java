@@ -2,10 +2,7 @@ package com.bayuedekui.paasbackend.entity;
 
 import lombok.Data;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 import java.util.Date;
 
 @Data
@@ -13,7 +10,8 @@ import java.util.Date;
 @Entity
 public class User {
     @Id
-    private String id;
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
 
     @Column(name="name")
     private String name;
@@ -27,6 +25,9 @@ public class User {
     @Column(name="sex")
     private int sex;    //0表示女生,1表示男生
 
+    @Column(name="role")
+    private int role;   //角色0普通用户,1服务发布者,2平台管理员
+    
     @Column(name="motto")
     private String motto;
 
